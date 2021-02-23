@@ -25,7 +25,7 @@
     "cross-env": "^5.2.0",
     "date-fns": "^1.29.0",
     "deepmerge": "^3.2.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "markdown-it-video": "^0.6.3",
     "mixpanel-browser": "^2.13.0",
     "number-abbreviate": "^2.0.0",
